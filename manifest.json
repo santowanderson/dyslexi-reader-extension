@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "Dyslexia Reader Helper",
+  "version": "1.0",
+  "description": "An extension to help users with dyslexia by customizing font and styling.",
+  "permissions": ["activeTab", "scripting"],
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"]
+    }
+  ]
+}
