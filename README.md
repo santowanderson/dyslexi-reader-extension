@@ -18,8 +18,7 @@ O objetivo do projeto é proporcionar uma experiência de leitura mais confortá
 
 Como esta é uma extensão em desenvolvimento, você deve instalá-la manualmente seguindo estes passos:
 
-1.  **Baixe os arquivos**: Certifique-se de que todos os arquivos do projeto estão na pasta:
-    `C:\Users\wande\OneDrive\Documentos\JavaScript\vanilla-js\extension`
+1.  **Baixe os arquivos**: Certifique-se de que todos os arquivos do projeto estão na mesma pasta:
 2.  **Abra o Chrome**: Acesse a página de extensões do navegador digitando `chrome://extensions/` na barra de endereços.
 3.  **Ative o Modo do Desenvolvedor**: No canto superior direito, ative a chave **"Modo do desenvolvedor"**.
 4.  **Carregue a Extensão**: Clique no botão **"Carregar sem compactação"** (Load unpacked) e selecione a pasta onde os arquivos da extensão foram salvos.
